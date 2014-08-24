@@ -1,4 +1,4 @@
-Tibia Repos
+Open Tibia Repos
 ===========
 
 A listing best and useful open tibia repos.
