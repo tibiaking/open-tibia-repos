@@ -54,7 +54,7 @@ https://github.com/asamy45/TibiaEditor
 https://github.com/PrinterLUA/FORGOTTENSERVER-ORTS
 
 **Alissow** by comedinha <br />
-**written in Lua, work in TFS* <br />
+*written in Lua, work in TFS* <br />
 https://github.com/comedinha/Alissow
 
 ##Editors for .dat, .spr, .pic
