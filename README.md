@@ -1,7 +1,7 @@
 Open Tibia Repos
 ===========
 
-A listing best and useful open tibia repos.
+Listing best and useful open tibia repos.
 
 ##Servers
 
