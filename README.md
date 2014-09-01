@@ -81,3 +81,6 @@ https://github.com/eratsu/openotlist
 *written in JavaScript* <br />
 https://github.com/comedinha/flags-calculator
 
+**Modern AAC** by Stian and Paxton <br />
+*written in PHP (CodeIgniter)* <br />
+https://github.com/avuenja/modernaac
