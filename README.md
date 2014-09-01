@@ -67,6 +67,10 @@ https://github.com/Mignari/ObjectBuilder
 *written in C++* <br />
 https://github.com/dtroitskiy/NewEditor
 
+**ItemEditor** by Mignari <br />
+*written in C#* <br />
+https://github.com/Mignari/ItemEditor
+
 ##Tools
 
 **Open Tibia Info** by renatorib <br />
