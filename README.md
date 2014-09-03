@@ -47,6 +47,10 @@ https://github.com/asamy45/forgottenmapeditor
 *written in C++* <br />
 https://github.com/asamy45/TibiaEditor
 
+**ItemEditor** by Mignari <br />
+*written in C#* <br />
+https://github.com/Mignari/ItemEditor
+
 ##Distributions
 
 **ForgottenServer-ORTS** by PrinterLUA <br />
@@ -56,6 +60,10 @@ https://github.com/PrinterLUA/FORGOTTENSERVER-ORTS
 **Alissow** by comedinha <br />
 *written in Lua, work in TFS* <br />
 https://github.com/comedinha/Alissow
+
+**PyOT** by Stian <br />
+*written in python* <br />
+https://github.com/avuenja/PyOT
 
 ##Editors for .dat, .spr, .pic
 
@@ -81,3 +89,10 @@ https://github.com/eratsu/openotlist
 *written in JavaScript* <br />
 https://github.com/comedinha/flags-calculator
 
+**Modern AAC** by Stian and Paxton <br />
+*written in CodeIgniter(php)* <br />
+https://github.com/avuenja/modernaac
+
+**Nicaw AAC** by Trevours <br />
+*written in php* <br />
+https://github.com/avuenja/nicawaac
