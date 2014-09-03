@@ -47,6 +47,10 @@ https://github.com/asamy45/forgottenmapeditor
 *written in C++* <br />
 https://github.com/asamy45/TibiaEditor
 
+**ItemEditor** by Mignari <br />
+*written in C#* <br />
+https://github.com/Mignari/ItemEditor
+
 ##Distributions
 
 **ForgottenServer-ORTS** by PrinterLUA <br />
