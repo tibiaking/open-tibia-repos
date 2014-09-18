@@ -81,6 +81,10 @@ https://github.com/renatorib/otinfo
 *written in php* <br />
 https://github.com/eratsu/openotlist
 
+**Flags Calculator** by ranisalt <br />
+*written in CoffeeScript* <br />
+https://github.com/ranisalt/flags-calculator
+
 **Flags Calculator** by comedinha <br />
 *written in JavaScript* <br />
 https://github.com/comedinha/flags-calculator
