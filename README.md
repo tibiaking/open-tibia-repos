@@ -17,6 +17,10 @@ https://github.com/otland/forgottenserver
 *written in C++, based on forgotten server* <br />
 https://github.com/tryller/crystalserver
 
+**OTX Server** by mattyx14 <br />
+*written in C++, based on forgotten server* <br />
+https://github.com/mattyx14/otxserver
+
 ##Clients
 
 **OTClient** by edubart <br />
