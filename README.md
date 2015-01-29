@@ -18,7 +18,7 @@ https://github.com/otland/forgottenserver
 https://bitbucket.org/vapus/pyot <br />
 (actually uses Mercurial and BitBucket but still resourceful)
 
-**Crystal Server** by tryller <br />
+**Crystal Server** by tryller (**abandoned**) <br />
 *written in C++, based on forgotten server* <br />
 https://github.com/tryller/crystalserver
 
@@ -32,7 +32,7 @@ https://github.com/mattyx14/otxserver
 *written in C++* <br />
 https://github.com/edubart/otclient
 
-**YATC** by opentibia <br />
+**YATC** by opentibia (**abandoned**) <br />
 *written in C++* <br />
 https://github.com/opentibia/yatc
 
@@ -52,7 +52,7 @@ https://github.com/asamy45/forgottenmapeditor
 
 ##Item Editors
 
-**TibiaEditor** by asamy45 <br />
+**TibiaEditor** by asamy45 (**abandoned**) <br />
 *written in C++* <br />
 https://github.com/asamy45/TibiaEditor
 
