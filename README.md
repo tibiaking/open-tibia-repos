@@ -13,6 +13,11 @@ https://github.com/opentibia/server
 *written in C++, based on open tibia server* <br />
 https://github.com/otland/forgottenserver
 
+**PyOT** by vapus <br />
+*written in Python 3, based on Forgotten Server* <br />
+https://bitbucket.org/vapus/pyot <br />
+(actually uses Mercurial and BitBucket but still resourceful)
+
 **Crystal Server** by tryller <br />
 *written in C++, based on forgotten server* <br />
 https://github.com/tryller/crystalserver
