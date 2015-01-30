@@ -9,6 +9,10 @@ Listing best and useful open tibia repos.
 *written in C++* <br />
 https://github.com/opentibia/server
 
+**PyOT** by vapus <br />
+*written in Python* <br />
+https://bitbucket.org/vapus/pyot
+
 **Forgotten Server** by otland <br />
 *written in C++, based on open tibia server* <br />
 https://github.com/otland/forgottenserver
