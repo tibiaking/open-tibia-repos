@@ -62,9 +62,9 @@ https://github.com/Mignari/ItemEditor
 
 ##Distributions
 
-**ForgottenServer-ORTS** by PrinterLUA <br />
-*written in Lua, work in TFS 1.0* <br />
-https://github.com/PrinterLUA/FORGOTTENSERVER-ORTS
+**ForgottenServer-ORTS** by orts <br />
+*written in Lua, work in TFS* <br />
+https://github.com/orts/server
 
 **Alissow** by comedinha <br />
 *written in Lua, work in TFS* <br />
