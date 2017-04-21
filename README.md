@@ -1,9 +1,9 @@
-Open Tibia Repos
-===========
+# Open Tibia Repos
+
 
 Listing best and useful open tibia repos.
 
-##Servers
+## Servers
 
 **Open Tibia Server** by opentibia <br />
 *written in C++* <br />
@@ -26,7 +26,7 @@ https://github.com/tryller/crystalserver
 *written in C++, based on forgotten server* <br />
 https://github.com/mattyx14/otxserver
 
-##Clients
+## Clients
 
 **OTClient** by edubart <br />
 *written in C++* <br />
@@ -36,7 +36,7 @@ https://github.com/edubart/otclient
 *written in C++* <br />
 https://github.com/opentibia/yatc
 
-##Map Editors
+## Map Editors
 
 **MapEditor** by otland <br />
 *written in Go* <br />
@@ -50,7 +50,7 @@ https://github.com/hjnilsson/rme
 *written in Lua* <br />
 https://github.com/asamy45/forgottenmapeditor
 
-##Item Editors
+## Item Editors
 
 **TibiaEditor** by asamy45 (**abandoned**) <br />
 *written in C++* <br />
@@ -60,7 +60,7 @@ https://github.com/asamy45/TibiaEditor
 *written in C#* <br />
 https://github.com/Mignari/ItemEditor
 
-##Distributions
+## Distributions
 
 **ForgottenServer-ORTS** by orts <br />
 *written in Lua, work in TFS* <br />
@@ -70,7 +70,7 @@ https://github.com/orts/server
 *written in Lua, work in TFS* <br />
 https://github.com/comedinha/Alissow
 
-##Editors for .dat, .spr, .pic
+## Editors for .dat, .spr, .pic
 
 **ObjectBuilder** by Mignari <br />
 *written in ActionScript* <br />
@@ -80,7 +80,7 @@ https://github.com/Mignari/ObjectBuilder
 *written in C++* <br />
 https://github.com/dtroitskiy/NewEditor
 
-##Tools
+## Tools
 
 **Open Tibia Info** by renatorib <br />
 *written in php* <br />
